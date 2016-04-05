@@ -4,7 +4,7 @@ class Hello{
 
 public void helloWorld(){
 
-system.out.println("Hello Java");
+System.out.println("Hello Java");
 
 }
 }
