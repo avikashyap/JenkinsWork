@@ -1,4 +1,4 @@
-package come.avikashyap;
+package com.avikashyap;
 
 class Hello{
 
