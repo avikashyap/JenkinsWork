@@ -2,9 +2,13 @@ package come.avikashyap;
 
 class Hello{
 
-public void helloWorld(){
+	public void helloWorld(){
 
-System.out.println("Hello Java");
+		System.out.println("Hello Java");
 
-}
+	}
+	public static void main(String args[]){
+		new Hello().helloWorld();
+	
+	}
 }
